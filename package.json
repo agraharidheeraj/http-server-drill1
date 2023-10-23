@@ -1,10 +1,18 @@
 {
   "dependencies": {
+    "express": "^4.18.2",
     "nodemon": "^3.0.1",
     "uuid": "^9.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
-  }
+  },
+  "name": "dheeraj-http-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
